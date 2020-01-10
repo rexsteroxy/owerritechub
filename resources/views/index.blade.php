@@ -114,7 +114,7 @@
 
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
-                <a href="course-single.html"><img src="images/img-4.jpeg" alt="Image" class="img-fluid"></a>
+                <a href="course-single.html"><img src="images/img-6.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price"><strike>N</strike>1000</span>
@@ -132,7 +132,7 @@
 
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
-                <a href="course-single.html"><img src="images/img-3.jpeg" alt="Image" class="img-fluid"></a>
+                <a href="course-single.html"><img src="images/img-7.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price"><strike>N</strike>1000</span>
@@ -150,7 +150,7 @@
 
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
-                <a href="course-single.html"><img src="images/img-1.jpeg" alt="Image" class="img-fluid"></a>
+                <a href="course-single.html"><img src="images/img-8.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price"><strike>N</strike>1000</span>
@@ -170,7 +170,7 @@
 
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
-                <a href="course-single.html"><img src="images/img-5.jpeg" alt="Image" class="img-fluid"></a>
+                <a href="course-single.html"><img src="images/img-6.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price"><strike>N</strike>1000</span>
@@ -188,7 +188,7 @@
 
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
-                <a href="course-single.html"><img src="images/img-2.jpeg" alt="Image" class="img-fluid"></a>
+                <a href="course-single.html"><img src="images/img-9.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price"><strike>N</strike>1000</span>
@@ -206,7 +206,7 @@
 
             <div class="course bg-white h-100 align-self-stretch">
               <figure class="m-0">
-                <a href="course-single.html"><img src="images/img-1.jpeg" alt="Image" class="img-fluid"></a>
+                <a href="course-single.html"><img src="images/img-6.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price"><strike>N</strike>1000</span>
@@ -249,7 +249,7 @@
         </div>
         <div class="row mb-5 align-items-center">
           <div class="col-lg-7 mb-5" data-aos="fade-up" data-aos-delay="100">
-            <img src="images/undraw_youtube_tutorial.svg" alt="Image" class="img-fluid">
+            <img src="images/img-2.jpeg" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
             <h2 class="text-black mb-4">We Are Excellent In Education</h2>
