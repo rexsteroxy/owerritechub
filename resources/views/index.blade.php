@@ -79,14 +79,21 @@
             <div class="col-12">
               <div class="row align-items-center">
                 <div class="col-lg-6 mb-4">
+                @if (session('response'))
+                        <div class="alert alert-success">
+                            {{ session('response') }}
+                        </div>
+            @endif
                   <h1 data-aos="fade-up" data-aos-delay="100">Learn From The Expert</h1>
                   <p class="mb-4" data-aos="fade-up" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur
                     adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
-                  <p data-aos="fade-up" data-aos-delay="300"><a href="#"
+                  <p data-aos="fade-up" data-aos-delay="300"><a href="/student-registration"
                       class="btn btn-primary py-3 px-5 btn-pill">Register Now</a></p>
 
                 </div>
-
+                <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="500">
+                  <img src="images/img-3.jpeg" alt="Image" class="img-fluid ">
+                </div>
 
               </div>
             </div>
@@ -498,8 +505,10 @@
             <h2 class="section-title mb-3">Message Us</h2>
             <p class="mb-5">Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam
               temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
+             
 
-            <form method="post" data-aos="fade">
+            <form action="/message" method="post">
+            {{ csrf_field() }}
               <div class="form-group row">
                 <div class="col-md-6 mb-3 mb-lg-0">
                   <input type="text" class="form-control" placeholder="First name">
@@ -508,7 +517,7 @@
                   <input type="text" class="form-control" placeholder="Last name">
                 </div>
               </div>
-
+ 
               <div class="form-group row">
                 <div class="col-md-12">
                   <input type="text" class="form-control" placeholder="Subject">
@@ -553,10 +562,10 @@
           <div class="col-md-3 ml-auto">
             <h3>Links</h3>
             <ul class="list-unstyled footer-links">
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Co-Working-Space</a></li>
-              <li><a href="#">Programs</a></li>
-              <li><a href="#">About Us</a></li>
+            <li><a href="#home-section" >Home</a></li>
+                <li><a href="#courses-section" >Co-Working Space</a></li>
+                <li><a href="#programs-section">Programs</a></li>
+                <li><a href="#teachers-section" >About Us</a></li>
             </ul>
           </div>
 
