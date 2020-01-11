@@ -511,28 +511,30 @@
             {{ csrf_field() }}
               <div class="form-group row">
                 <div class="col-md-6 mb-3 mb-lg-0">
-                  <input type="text" class="form-control" placeholder="First name">
+                  <input type="text" class="form-control" placeholder="First name" name="firstname">
                 </div>
                 <div class="col-md-6">
-                  <input type="text" class="form-control" placeholder="Last name">
+                  <input type="text" class="form-control" placeholder="Last name" name="lastname">
                 </div>
               </div>
  
               <div class="form-group row">
                 <div class="col-md-12">
-                  <input type="text" class="form-control" placeholder="Subject">
+                  <input type="email" class="form-control" placeholder="Email" name="email">
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="text" class="form-control" placeholder="Subject" name="subject">
                 </div>
               </div>
+
+              
               <div class="form-group row">
                 <div class="col-md-12">
                   <textarea class="form-control" id="" cols="30" rows="10"
-                    placeholder="Write your message here."></textarea>
+                    placeholder="Write your message here." name="message"></textarea>
                 </div>
               </div>
 

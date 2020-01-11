@@ -68,13 +68,15 @@
 
                     <h3 class="h4 text-black mb-4">Fill The Following </h3>
                     <div class="form-group">
-                      <input type="text" class="form-control" placeholder="Full Name" required>
+                      <input type="text" class="form-control" placeholder="Full Name" name="fullname"
+                       required>
                     </div>
                     <div class="form-group">
-                      <input type="email" class="form-control" placeholder="Email" required>
+                      <input type="email" class="form-control" 
+                       placeholder="Email" required name="email">
                     </div>
                     <div class="form-group mb-4">
-                      <input type="text" class="form-control" placeholder="Phone-Number">
+                      <input type="text" class="form-control" placeholder="Phone-Number" name="number">
                     </div>
                     <div>
                     <label for="">Course</label>
