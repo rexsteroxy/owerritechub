@@ -5,7 +5,7 @@
   <title>OwerriTechHub Official Website</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <meta name="description" content="Welcome to the official website of OwerriTech-Hub.">
 
   <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700,900" rel="stylesheet">
   <link rel="stylesheet" href="fonts/icomoon/style.css">
@@ -85,8 +85,8 @@
                         </div>
             @endif
                   <h1 data-aos="fade-up" data-aos-delay="100">Learn From The Expert</h1>
-                  <p class="mb-4" data-aos="fade-up" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur
-                    adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
+                  <p class="mb-4" data-aos="fade-up" data-aos-delay="200">We run IT training bootcamps with focus on best tools and practises used in the Tech ecosystem. 
+                  We also incubate startups with the right tools for business growth.</p>
                   <p data-aos="fade-up" data-aos-delay="300"><a href="/student-registration"
                       class="btn btn-primary py-3 px-5 btn-pill">Register Now</a></p>
 
@@ -249,8 +249,8 @@
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="">
             <h2 class="section-title">Our Programs</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam repellat aut neque! Doloribus sunt non
-              aut reiciendis, vel recusandae obcaecati hic dicta repudiandae in quas quibusdam ullam, illum sed veniam!
+            <p>We run IT training bootcamps with focus on best tools and practises used in the Tech ecosystem.
+             We also incubate startups with the right tools for business growth.
             </p>
           </div>
         </div>
@@ -259,21 +259,26 @@
             <img src="images/img-2.jpeg" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
-            <h2 class="text-black mb-4">We Are Excellent In Education</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem maxime nam porro possimus
-              fugiat quo molestiae illo.</p>
+            <h2 class="text-black mb-4">Web Development Training</h2>
+            <p class="mb-4"> A 5 months practical oriented training class. 
+            There will be a tutor lead section,<br> class programming session and a project development section.
+             Every student will be expected to complete a web project (a Computer Based Test
+              or a Responsive Personal Resume Website or both) using the technology 
+              learnt during the training. All registered students will benefit from free Co-Working Space 
+            and free internet access, which will be provided by the hub.</p>
 
             <div class="d-flex align-items-center custom-icon-wrap mb-3">
               <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
               <div>
-                <h3 class="m-0">22,931 Yearly Graduates</h3>
+                <h3 class="m-0">All at an affordable fee of <strike>N</strike>50,000</h3>
               </div>
             </div>
 
             <div class="d-flex align-items-center custom-icon-wrap">
               <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
               <div>
-                <h3 class="m-0">150 Universities Worldwide</h3>
+                <h3 class="m-0"><a href="/student-registration"
+                      class="btn btn-primary py-3 px-5 btn-pill">Register Now</a></h3>
               </div>
             </div>
 
@@ -285,11 +290,10 @@
             <img src="images/undraw_teaching.svg" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 mr-auto order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-            <h2 class="text-black mb-4">Strive for Excellent</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem maxime nam porro possimus
-              fugiat quo molestiae illo.</p>
+            <h2 class="text-black mb-4">STARTUP INCUBATION</h2>
+            <p class="mb-4">Gain the right knowledge on what you need to build a successful business.</p>
 
-            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+            <!-- <div class="d-flex align-items-center custom-icon-wrap mb-3">
               <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
               <div>
                 <h3 class="m-0">22,931 Yearly Graduates</h3>
@@ -301,7 +305,7 @@
               <div>
                 <h3 class="m-0">150 Universities Worldwide</h3>
               </div>
-            </div>
+            </div> -->
 
           </div>
         </div>
@@ -311,11 +315,10 @@
             <img src="images/undraw_teacher.svg" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
-            <h2 class="text-black mb-4">Education is life</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem maxime nam porro possimus
-              fugiat quo molestiae illo.</p>
+            <h2 class="text-black mb-4">MATERNAL HEALTH & BREAST CANCER</h2>
+            <p class="mb-4">Learn and build innovative methods to improve health care.</p>
 
-            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+            <!-- <div class="d-flex align-items-center custom-icon-wrap mb-3">
               <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
               <div>
                 <h3 class="m-0">22,931 Yearly Graduates</h3>
@@ -327,7 +330,7 @@
               <div>
                 <h3 class="m-0">150 Universities Worldwide</h3>
               </div>
-            </div>
+            </div> -->
 
           </div>
         </div>
@@ -341,31 +344,17 @@
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-7 mb-5 text-center" data-aos="fade-up" data-aos-delay="">
             <h2 class="section-title">About Us</h2>
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam repellat aut neque!
-              Doloribus sunt non aut reiciendis, vel recusandae obcaecati hic dicta repudiandae in quas quibusdam ullam,
-              illum sed veniam!</p>
+            <p class="mb-5">We run IT training bootcamps with focus on best tools and practises used in the Tech ecosystem.
+             We also incubate startups with the right tools for business growth.</p>
           </div>
         </div>
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-7 mb-5 text-center" data-aos="fade-up" data-aos-delay="">
-            <h2 class="section-title">Instructors</h2>
+            <h2 class="section-title">Meet Our Staffs</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="teacher text-center">
-              <img src="images/Austin.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
-              <div class="py-2">
-                <h3 class="text-black">Amadi Austin Chukwuemeka</h3>
-                <p class="position">Web Development Instructor</p>
-                <p>A Software engineer building Software applications for the web while experimenting with blockchain 
-                  technology.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="teacher text-center">
               <img src="images/rexs.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
@@ -378,15 +367,23 @@
             </div>
           </div>
 
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="teacher text-center">
+              <img src="images/empty.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <div class="py-2">
+                <h3 class="text-black">Chinemere</h3>
+                <p class="position">Staff</p>
+                </p>
+              </div>
+            </div>
+          </div>
+
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
             <div class="teacher text-center">
-              <img src="images/rex.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/empty.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Amadi Austin Chukwuemeka</h3>
-                <p class="position">Web Development Instructor</p>
-                <p>A Software engineer building Software applications for the web while experimenting with blockchain 
-                  technology.
-                </p>
+                <h3 class="text-black">John Doe</h3>
+                <p class="position">Staff</p>
               </div>
             </div>
           </div>
@@ -399,11 +396,10 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-8 text-center testimony">
             <img src="images/desmond.png" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">
-            <h3 class="mb-4">Desmond JohnBosco</h3>
+            <h3 class="mb-4">Desmond Johnbosco</h3>
+            
             <blockquote>
-              <p>&ldquo; Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem soluta sit eius
-                necessitatibus voluptate excepturi beatae ad eveniet sapiente impedit quae modi quo provident odit
-                molestias! Rem reprehenderit assumenda &rdquo;</p>
+              <p>&ldquo; Chief Technical Officer  &rdquo;</p>
             </blockquote>
           </div>
         </div>
@@ -435,7 +431,7 @@
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span>
                 </div>
                 <div>
-                  <h3 class="m-0">22,931 Yearly Graduates</h3>
+                  <h3 class="m-0">We Provide The Best Learning Path.</h3>
                 </div>
               </div>
 
@@ -443,7 +439,7 @@
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span>
                 </div>
                 <div>
-                  <h3 class="m-0">150 Universities Worldwide</h3>
+                  <h3 class="m-0">We Are Located At The Heart Of Owerri.</h3>
                 </div>
               </div>
 
@@ -459,7 +455,7 @@
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span>
                 </div>
                 <div>
-                  <h3 class="m-0">Expand Your Knowledge</h3>
+                  <h3 class="m-0">Best Learning Environment</h3>
                 </div>
               </div>
 
@@ -467,7 +463,7 @@
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span>
                 </div>
                 <div>
-                  <h3 class="m-0">Best Online Teaching Assistant Courses</h3>
+                  <h3 class="m-0">Expand Your Knowledge</h3>
                 </div>
               </div>
 
@@ -503,8 +499,8 @@
 
 
             <h2 class="section-title mb-3">Message Us</h2>
-            <p class="mb-5">Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam
-              temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
+            <p class="mb-5">Tell us about your tech related problems so we can know how best to serve you. 
+            Kindly fill the contact form.</p>
              
 
             <form action="/message" method="post">
@@ -552,13 +548,41 @@
     </div>
 
 
+
+
+    <!-- Google Map -->
+
+
+    
+      <div class="container">
+
+        <div class="row justify-content-center">
+          <div class="col-md-7">
+
+
+
+            <h2 class="section-title mb-3">See Our Location</h2>
+            <p class="mb-5">Easy To Locate</p>
+             
+            <iframe
+             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3971.536806589953!2d7.037129!3d5.4869767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1042593f19f8a56d%3A0x3d116de9a709abfd!2sOwerri%20Tech%20Hub!5e0!3m2!1sen!2sng!4v1578828899318!5m2!1sen!2sng" width="auto" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            </div>
+          </div>
+            
+          </div>
+          </div>
+        
+     
+    <!-- Ends here -->
+
+
     <footer class="footer-section bg-white">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
             <h3>About OwerriTechHub</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro consectetur ut hic ipsum et veritatis
-              corrupti. Itaque eius soluta optio dolorum temporibus in, atque, quos fugit sunt sit quaerat dicta.</p>
+            <p>We run IT training bootcamps with focus on best tools and practises used in the Tech ecosystem.
+             We also incubate startups with the right tools for business growth.</p>
           </div>
 
           <div class="col-md-3 ml-auto">
@@ -572,9 +596,14 @@
           </div>
 
           <div class="col-md-4">
-            <h3>Subscribe</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt incidunt iure iusto architecto?
-              Numquam, natus?</p>
+          <h3>Contact Us</h3>
+          <ul class="list-unstyled footer-links">
+            <li> <span class="icon icon-phone"></span> +2348171904344</li>
+            <li><span class="icon icon-phone"></span> +2348067915982</li>
+            <li><span class="icon-chat"></span> info@owerritechhub.com</li>
+            </ul>
+            
+            <p>Subscribe to recieve the hub's updates.</p>
             <form action="#" class="footer-subscribe">
               <div class="d-flex mb-5">
                 <input type="text" class="form-control rounded-0" placeholder="Email">
