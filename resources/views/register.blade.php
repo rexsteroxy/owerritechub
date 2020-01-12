@@ -84,7 +84,8 @@
                        placeholder="Email" required name="email">
                     </div>
                     <div class="form-group mb-4">
-                      <input type="text" class="form-control" placeholder="Phone-Number" name="number">
+                      <input required type="text" 
+                      class="form-control" placeholder="Phone-Number" name="number">
                     </div>
                     <div>
                     <label for="">Course</label>
@@ -110,7 +111,7 @@
     </div>
 
 
-   
+   <br><br><br><br><br>
 
     <div class="site-section bg-light" id="contact-section">
       <div class="container">

@@ -507,22 +507,22 @@
             {{ csrf_field() }}
               <div class="form-group row">
                 <div class="col-md-6 mb-3 mb-lg-0">
-                  <input type="text" class="form-control" placeholder="First name" name="firstname">
+                  <input required type="text" class="form-control" placeholder="First name" name="firstname">
                 </div>
                 <div class="col-md-6">
-                  <input type="text" class="form-control" placeholder="Last name" name="lastname">
+                  <input  required type="text" class="form-control" placeholder="Last name" name="lastname">
                 </div>
               </div>
  
               <div class="form-group row">
                 <div class="col-md-12">
-                  <input type="email" class="form-control" placeholder="Email" name="email">
+                  <input required  type="email" class="form-control" placeholder="Email" name="email">
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <input type="text" class="form-control" placeholder="Subject" name="subject">
+                  <input required type="text" class="form-control" placeholder="Subject" name="subject">
                 </div>
               </div>
 
@@ -530,7 +530,7 @@
               <div class="form-group row">
                 <div class="col-md-12">
                   <textarea class="form-control" id="" cols="30" rows="10"
-                    placeholder="Write your message here." name="message"></textarea>
+                    placeholder="Write your message here." name="message" required></textarea>
                 </div>
               </div>
 
@@ -606,8 +606,8 @@
             <p>Subscribe to recieve the hub's updates.</p>
             <form action="#" class="footer-subscribe">
               <div class="d-flex mb-5">
-                <input type="text" class="form-control rounded-0" placeholder="Email">
-                <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">
+                <input type="text" class="form-control rounded-0" placeholder="Email" required>
+                <input type="submit" class="btn btn-primary rounded-0" value="Subscribe" >
               </div>
             </form>
           </div>
