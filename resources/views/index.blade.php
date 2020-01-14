@@ -350,13 +350,13 @@
         </div>
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-7 mb-5 text-center" data-aos="fade-up" data-aos-delay="">
-            <h2 class="section-title">Meet Our Staffs</h2>
+            <h2 class="section-title">Meet Our Staff</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
             <div class="teacher text-center">
-              <img src="images/rexs.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/austin.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
                 <h3 class="text-black">Amadi Austin Chukwuemeka</h3>
                 <p class="position">Web Development Instructor</p>
@@ -369,10 +369,10 @@
 
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="teacher text-center">
-              <img src="images/empty.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/chinemere.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Chinemere</h3>
-                <p class="position">Staff</p>
+                <h3 class="text-black">Nwaeke Chinemerem</h3>
+                <p class="position">Facility Manager</p>
                 </p>
               </div>
             </div>
@@ -380,10 +380,10 @@
 
           <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
             <div class="teacher text-center">
-              <img src="images/empty.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/chidera.jpeg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">John Doe</h3>
-                <p class="position">Staff</p>
+                <h3 class="text-black">Candice Chidera</h3>
+                <p class="position">Client Service Representative</p>
               </div>
             </div>
           </div>
@@ -399,7 +399,7 @@
             <h3 class="mb-4">Desmond Johnbosco</h3>
             
             <blockquote>
-              <p>&ldquo; Chief Technical Officer  &rdquo;</p>
+              <p>&ldquo; Chief Operations Officer  &rdquo;</p>
             </blockquote>
           </div>
         </div>
